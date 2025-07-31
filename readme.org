@@ -1,0 +1,7 @@
+* Readme
+To setup
+#+begin_example
+git clone git@github.com:janmasrovira/ncmpcpp-config.git ~/dotfiles/ncmpcpp
+cd dotfiles
+stow ncmpcpp
+#+end_example
